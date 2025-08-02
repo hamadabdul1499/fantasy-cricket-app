@@ -5,3 +5,4 @@ obj/
 *.suo
 *.log
 *.cache
+# (plus any lines that were in the remote version if you want)
