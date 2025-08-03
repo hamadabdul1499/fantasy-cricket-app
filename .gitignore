@@ -1,8 +1,4 @@
 .vs/
-bin/
-!bin/Debug/
-!bin/Debug/net8.0-windows/
-!bin/Debug/net8.0-windows/Data/
 obj/
 *.user
 *.suo
