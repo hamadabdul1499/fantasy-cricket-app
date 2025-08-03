@@ -1,0 +1,54 @@
+Pakistan:
+Babar Azam
+Mohammad Rizwan
+Fakhar Zaman
+Imam-ul-Haq
+Sarfaraz Ahmed
+
+India:
+Virat Kohli
+Rohit Sharma
+KL Rahul
+Suryakumar Yadav
+Shubman Gill
+
+Bangladesh:
+Tamim Iqbal
+Mushfiqur Rahim
+Litton Das
+Soumya Sarkar
+Afif Hossain
+
+New Zealand:
+Kane Williamson
+Tom Latham
+Devon Conway
+Finn Allen
+Glenn Phillips
+
+Australia:
+Steve Smith
+David Warner
+Travis Head
+Marnus Labuschagne
+
+England:
+Joe Root
+Ben Stokes
+Jos Buttler
+Jonny Bairstow
+Jason Roy
+
+Afghanistan:
+Rahmanullah Gurbaz
+Hazratullah Zazai
+Najibullah Zadran
+Ibrahim Zadran
+Afsar Zazai
+
+South Africa:
+Quinton de Kock
+Aiden Markram
+Temba Bavuma
+David Miller
+Rassie van der Dussen
